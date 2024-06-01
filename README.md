@@ -9,10 +9,11 @@
 - Fundamentals of HTML and CSS
 ## Software to use
 - vs code
+## VSCode Extentions
 - live-server
+- emmet
+- prettier
 
-## Working with html.
-    - HTML Elements
 ## Lesson One Working css 
 1. CSS BOX Model
 - Margin
@@ -22,6 +23,9 @@
 
 2. HTML Elements
 - h1 to h6
-- divs
-- selectors
-- images
+- Divs
+- Selectors
+- Images
+# Facilitator
+- Name:  mugisha ivan jalagatha
+[company](ClubTangaza)
