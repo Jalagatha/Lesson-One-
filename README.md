@@ -28,4 +28,4 @@
 - Images
 # Facilitator
 - Name:  mugisha ivan jalagatha
-[company](ClubTangaza)
+- Company: "ClubTangaza"
