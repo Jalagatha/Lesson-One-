@@ -1,18 +1,17 @@
 # Working With HTML And CSS
-[
-    Lesson One
+  Project Brief:
 - This is a front-end Stack that is meant to Equip the student with front-end programming knowledge.
 - Use of html.
 - Use of css.
 - Use of Javascript.
 - Fundamentals.
-]
+
 - Fundamentals of HTML and CSS
-## Software
-- vscode
+## Software to use
+- vs code
 - live-server
 
-## Working with html
+## Working with html.
     - HTML Elements
 ## Lesson One Working css 
 1. CSS BOX Model
@@ -20,8 +19,9 @@
 - Padding
 - Radius
 - Border-Radius
-- 
+
 2. HTML Elements
-- h1
+- h1 to h6
 - divs
+- selectors
 - images
