@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Page Title</title>
+</head>
+<body>
+    <!-- <h1 class="item1">Title
+    </h1> -->
+     <div class="h">
+    </div> 
+  
+    <script>
+      // select elements in the body
+      const body=document.body
+      // add text to the html element
+      body.append("Hello, World")
+      //  create a variable to create a div element
+      const div=document.createElement("div")
+// add the div element inside the body of the html page
+       body.append(div)
+      //  modify element
+div.innerText="Isaiah is my name"
+div.style.height="200px"
+div.style.width="200px"
+div.style.backgroundColor="indigo" 
+div.style.color="white"
+div.style.fontSize="25px"
+div.style.margin="15px"
+div.style.padding="25px"
+div.style.border="6px solid black"
+div.style.borderRadius="5px"
+
+
+
+
+
+
+const head=document.createElement("h3")
+        head.innerText="Peter" //alternatively we can use
+        // head.innerHTML="<h2>Peter</h2>"
+
+        //to remove head
+        head.remove()
+        // head back
+        head.innerHTML="<h2>Peter</h2>"
+    //select element by className
+      const h =document.querySelector(".h")
+      h.innerText="Isaiah is my name"
+      // div.innerHTML="<strong>Hello, world</strong>"
+      // const strong=document.createElement("strong")
+      // strong.innerText="Hello, this is two"
+      // div.append(strong)
+      // body.removeChild(h)
+      
+    </script>
+</body>
+</html>
